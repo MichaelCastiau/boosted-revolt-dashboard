@@ -4,6 +4,8 @@ More information about the Boosted ReVOLT! Dashboard on [michael-castiau.blogspo
 
 This repository only contains the executable binairies of the Boosted ReVOLT! Dashboard in `.bin` format. To update your Boosted ReVOLT! dashboard firmware, please refer to the [ReVOLT! Desktop Tool](https://github.com/MichaelCastiau/boosted-revolt-tool) that will update your dashboard automatically.
 
+The binairies can be found in the releases of this repository.
+
 ## Flashing Your Dashboard
 
 **For first generation dashboards, we encourage soldering the programmer wires manually, using an STLink V2 for flashing the software**
