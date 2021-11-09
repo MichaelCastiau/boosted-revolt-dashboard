@@ -15,7 +15,7 @@ To update your dashboard manually, please refer to the STLink (V2/V3) SWD debugg
 
 > See "SWD Solution using ARM20-CTX"
 
-![cortex](./ST-14.png)
+![arm](./ARM20.png)
 
 For the STLink V2 programmer information, visit official page [on ST Microelectronics website](https://www.st.com/en/development-tools/st-link-v2.html).
 
@@ -23,7 +23,7 @@ For the STLink V2 programmer information, visit official page [on ST Microelectr
 
 > See "SWD using the Cortex STDC14 connector with 6 Pin connector on target board"
 
-![arm](./ARM20.png)
+![cortex](./ST-14.png)
 
 For theh STLink V3 Mini programmer information, visit official page [on ST Microelectronics website](https://www.st.com/en/development-tools/stlink-v3mini.html).
 
