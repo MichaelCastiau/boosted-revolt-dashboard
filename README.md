@@ -25,7 +25,7 @@ For the STLink V2 programmer information, visit official page [on ST Microelectr
 
 ![cortex](./ST-14.png)
 
-For theh STLink V3 Mini programmer information, visit official page [on ST Microelectronics website](https://www.st.com/en/development-tools/stlink-v3mini.html).
+For the STLink V3 Mini programmer information, visit official page [on ST Microelectronics website](https://www.st.com/en/development-tools/stlink-v3mini.html).
 
 Both solutions are compatible with the STM32L4 microcontroller present on the board. However, the V3 version of the STLink features ST's most recent product updates.
 
