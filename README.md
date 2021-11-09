@@ -6,27 +6,14 @@ This repository only contains the executable binairies of the Boosted ReVOLT! Da
 
 The binairies can be found in the releases of this repository.
 
-## Flashing Your Dashboard
+## Flashing Your Dashboard Manually
 
-**For first generation dashboards, we encourage soldering the programmer wires manually, using an STLink V2 for flashing the software**
+The dashboard includes a Tag-Connect 6-pin ARM headless connector.
+To update your dashboard manually, please refer to the STLink (V2/V3) SWD debugger solutions of Tag-Connect:
 
-To update your dashboard manually, you'll need
-- An STLink debugger/programmer
-- A Tag-connect 6 pin ARM adapter ([tag-connect.com](https://tag-connect.com)) (or solder the wires manually)
+- [SWD Solution ARM20-CTX](https://www.tag-connect.com/debugger-cable-selection-installation-instructions/st-link-v2)
+- [SWD STDC14 Connector](https://www.tag-connect.com/debugger-cable-selection-installation-instructions/stlink-v3mini)
 
-Instead of a tag-connect wire, you may solder the wire connections needed. The board contains a 6-pin ARM connector
-for programming. (See screenshot for pinout)
+Both solutions are compatible with the STM32L4 microcontroller present on the board. However, the V3 version of the STLink features ST's most recent product updates.
 
-![screenshot](./arm-connector.png)
-
-### Tag Connect Wire
-
-You may use one of the following wires:
-- [2.56mm pitch adapter](https://www.tag-connect.com/product/tc2030-pkt-swd-6-pin-cable-with-legs-for-microchip-pickit-4-snap-sam)
-- [6-pin to ARM adapter](https://www.tag-connect.com/product/tc2030-ctx-6-pin-cable-for-arm-cortex)
-
-### STLink
-
-You may use any of the STLink (or clones) to program the firmware update for your dashboard.
-STLink V2 and V3 is supported.
-
+To flash the firmware, please use the official [ST Program Tool](https://www.st.com/en/development-tools/stm32cubeprog.html)
