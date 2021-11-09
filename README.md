@@ -15,7 +15,8 @@ To update your dashboard manually, please refer to the STLink (V2/V3) SWD debugg
 
 > See "SWD Solution using ARM20-CTX"
 
-![cortex 14](./Cortex ST-14.png)
+
+![cortex]("./Cortex ST-14.png")
 
 ### [SWD STDC14 Connector](https://www.tag-connect.com/debugger-cable-selection-installation-instructions/stlink-v3mini)
 
