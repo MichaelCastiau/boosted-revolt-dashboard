@@ -15,14 +15,17 @@ To update your dashboard manually, please refer to the STLink (V2/V3) SWD debugg
 
 > See "SWD Solution using ARM20-CTX"
 
-
 ![cortex](./ST-14.png)
+
+For the STLink V2 programmer information, visit official page [on ST Microelectronics website](https://www.st.com/en/development-tools/st-link-v2.html).
 
 ### [SWD STDC14 Connector](https://www.tag-connect.com/debugger-cable-selection-installation-instructions/stlink-v3mini)
 
 > See "SWD using the Cortex STDC14 connector with 6 Pin connector on target board"
 
 ![arm](./ARM20.png)
+
+For theh STLink V3 Mini programmer information, visit official page [on ST Microelectronics website](https://www.st.com/en/development-tools/stlink-v3mini.html).
 
 Both solutions are compatible with the STM32L4 microcontroller present on the board. However, the V3 version of the STLink features ST's most recent product updates.
 
