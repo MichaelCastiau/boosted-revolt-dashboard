@@ -2,11 +2,11 @@
 
 More information about the Boosted ReVOLT! Dashboard on [michael-castiau.blogspot.com](https://michael-castiau.blogspot.com/2021/05/boosted-rev-custom-dashboard-vesc.html)
 
-This repository only contains the executable binairies of the Boosted ReVOLT! Dashboard in `.bin` format. To update your Boosted ReVOLT! dashboard firmware, please refer to the [ReVOLT! Desktop Tool](https://github.com/MichaelCastiau/boosted-revolt-tool) that will update your dashboard automatically.
+This repository contains the executable binairies of the Boosted ReVOLT! Dashboard in `.bin` format.
 
 The binairies can be found in the releases of this repository.
 
-## Flashing Your Dashboard Manually
+## Flashing Your Dashboard
 
 The dashboard includes a Tag-Connect 6-pin ARM headless connector.
 To update your dashboard manually, please refer to the STLink (V2/V3) SWD debugger solutions of Tag-Connect.
