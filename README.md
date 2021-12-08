@@ -4,7 +4,7 @@ More information about the Boosted ReVOLT! Dashboard on [michael-castiau.blogspo
 
 This repository contains the executable binairies of the Boosted ReVOLT! Dashboard in `.bin` format.
 
-The binairies can be found in the releases of this repository.
+The binairies can be found in the [releases](https://github.com/MichaelCastiau/boosted-revolt-dashboard/releases) of this repository.
 
 ## Flashing Your Dashboard
 
